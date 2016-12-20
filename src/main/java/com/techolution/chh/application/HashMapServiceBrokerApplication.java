@@ -47,11 +47,7 @@ public class HashMapServiceBrokerApplication {
 	@Autowired
 	private TypeResolver typeResolver;
 
-	/**
-	 * This method is used to run this BillingHoldForPODApplication
-	 * 
-	 * @param args
-	 */
+	
 	public static void main(String[] args) {
 		SpringApplication.run(HashMapServiceBrokerApplication.class, args);
 	}
