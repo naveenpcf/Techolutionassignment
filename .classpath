@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java">
+		<attributes>
+			<attribute name="FROM_GRADLE_MODEL" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src/main/resources">
+		<attributes>
+			<attribute name="FROM_GRADLE_MODEL" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.buildship.core.gradleclasspathcontainer"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Naveen/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-jpa/1.5.2.RELEASE/6e8608622fd11205238d8d1363f099c2a638a0bf/spring-data-jpa-1.5.2.RELEASE.jar" sourcepath="C:/Users/Naveen/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-jpa/1.5.2.RELEASE/cec8f2f4ae29bc36d21c5049bc1b019d622bd63b/spring-data-jpa-1.5.2.RELEASE-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

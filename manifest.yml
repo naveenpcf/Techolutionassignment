@@ -1,0 +1,9 @@
+---
+applications:
+- name: HashMaapServiceBroker
+  memory: 512M
+  instances: 1  
+  path: build/libs/HashMaapServiceBroker-0.0.1-SNAPSHOT.jar
+  
+    
+    
